@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chatapp-client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chatapp_client_jar</output-path>
+    <root id="archive" name="chatapp-client.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="chatapp-client" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/persistence/org.eclipse.persistence.core/3.0.0/org.eclipse.persistence.core-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/persistence/org.eclipse.persistence.moxy/3.0.0/org.eclipse.persistence.moxy-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/mail/jakarta.mail/2.0.0/jakarta.mail-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/persistence/org.eclipse.persistence.asm/3.0.0/org.eclipse.persistence.asm-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

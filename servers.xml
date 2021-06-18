@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listServerInfo>
+   <server>
+      <name>localhost</name>
+      <serverAddress>127.0.0.1</serverAddress>
+      <port>5678</port>
+   </server>
+   <server>
+      <name>LocalhostAlternative</name>
+      <serverAddress>localhost</serverAddress>
+      <port>5678</port>
+   </server>
+   <server>
+      <name>asbd</name>
+      <serverAddress>google.com</serverAddress>
+      <port>5678</port>
+   </server>
+</listServerInfo>
